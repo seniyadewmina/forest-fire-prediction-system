@@ -1,0 +1,13 @@
+# Ignore only data
+data/
+
+# Python / Jupyter ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
